@@ -1,7 +1,7 @@
 var mongoose = require('mongoose'),
     assert = require('assert');
 
-var Leaderships = require('./models/leaderships');
+var Leaderships = require('./models/leadership');
 
 // Connection URL
 var url = 'mongodb://localhost:27017/conFusion';
